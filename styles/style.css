@@ -219,6 +219,7 @@ h6{
     border: 1px solid #ddd;
     border-radius: 5px;
     outline: none;
+    color: #fff;
 }
 .footer .left .email{
     margin-top: 20px;
